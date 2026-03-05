@@ -1,0 +1,3 @@
+C:/Users/Purple/Downloads/Arvore binaria/build/CMakeFiles/binary-tree.dir
+C:/Users/Purple/Downloads/Arvore binaria/build/CMakeFiles/edit_cache.dir
+C:/Users/Purple/Downloads/Arvore binaria/build/CMakeFiles/rebuild_cache.dir
